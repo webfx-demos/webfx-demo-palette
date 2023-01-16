@@ -29,6 +29,11 @@
 
     </repositories>
 
+
+    <properties>
+        <plugin.gluonfx.version>1.0.16</plugin.gluonfx.version>
+    </properties>
+
     <packaging>pom</packaging>
 
     <modules>

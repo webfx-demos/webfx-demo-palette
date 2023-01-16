@@ -9,4 +9,10 @@
             <webfx-library artifact="dev.webfx:webfx:0.1.0-SNAPSHOT"/>
     </required-libraries>
 
+    <maven-pom-manual>
+        <properties>
+            <plugin.gluonfx.version>1.0.16</plugin.gluonfx.version>
+        </properties>
+    </maven-pom-manual>
+
 </project>
